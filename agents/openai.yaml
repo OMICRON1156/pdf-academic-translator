@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF Academic Translator"
+  short_description: "Translate English academic PDFs into Chinese"
+  default_prompt: "Use $pdf-academic-translator to translate an English academic PDF into Chinese"
