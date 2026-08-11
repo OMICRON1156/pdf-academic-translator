@@ -1,0 +1,4 @@
+interface:
+  display_name: "PDF Academic Translator"
+  short_description: "Translate academic PDFs from English or other languages into Chinese PDF or EPUB"
+  default_prompt: "Use $pdf-academic-translator to translate an academic PDF (English or other languages) into Chinese PDF/EPUB"
